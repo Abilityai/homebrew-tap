@@ -3,8 +3,8 @@ class TrinityCli < Formula
 
   desc "CLI for the Trinity Autonomous Agent Orchestration Platform"
   homepage "https://github.com/abilityai/trinity"
-  url "https://files.pythonhosted.org/packages/source/t/trinity-cli/trinity_cli-0.2.8.tar.gz"
-  sha256 "92e6ee57eb2658dfb9d67576068afd9297bb582e5c17435414a61a627b6df602"
+  url "https://files.pythonhosted.org/packages/source/t/trinity-cli/trinity_cli-0.2.9.tar.gz"
+  sha256 "16f90215a4070fd853c2289c66e47c48d8b0fe5054a22633207f68fec31bb63e"
   license "MIT"
 
   depends_on "python@3.12"
